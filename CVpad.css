@@ -15,11 +15,9 @@
    background-image: url(https://i.imgur.com/ymzHo08.png);
 }
 ​
-/*
 .ds4.white .touchpad.pressed {
    background-image: url(ps4-white-assets/touchpad.svgz);
 }
-*/
 ​
 .ds4.white .back, .ds4 .start {
    background-image: url(https://i.imgur.com/Ht4iV4T.png);
@@ -38,4 +36,5 @@
 }
 ​
 /*END PS4 White Controller Styling*/
+​
 ​
