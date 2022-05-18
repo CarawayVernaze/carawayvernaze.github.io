@@ -1,0 +1,39 @@
+/*BEGIN PS4 White Controller Styling*/
+.controller.ds4.white {
+   background-image: url(base-cvpad.png);
+}
+​
+.ds4.white.disconnected {
+   background: url(disconnected-cvpad.png);
+}
+​
+.ds4.white .trigger {
+   background-image: url(triggers-cvpad.png);
+}
+​
+.ds4.white .bumper {
+   background-image: url(bumper-cvpad.png);
+}
+​
+.ds4.white .touchpad.pressed {
+   background-image: url(ps4-white-assets/touchpad.svgz);
+}
+​
+.ds4.white .back, .ds4 .start {
+   background-image: url(start-cvpad.png);
+}
+​
+.ds4.white .button {
+   background-image: url(face-cvpad.png);
+}
+​
+.ds4.white .stick {
+   background-image: url(sticks-cvpad2.png);
+}
+​
+.ds4.white .face {
+   background-image: url(dpad-cvpad2.png);
+}
+​
+/*END PS4 White Controller Styling*/
+​
